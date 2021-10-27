@@ -1,0 +1,2 @@
+obj\Debug\net5.0\Protos/Credit-rating-serviceGrpc.cs \
+obj\Debug\net5.0\Protos/CreditRatingService.cs: Protos/credit-rating-service.proto
